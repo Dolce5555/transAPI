@@ -1,4 +1,4 @@
-# Python
+git@github.com:Dolce5555/transAPI.git# Python
 __pycache__/
 *.py[cod]
 *$py.class
@@ -13,6 +13,3 @@ ENV/
 .env
 .env.local
 
-# OS
-.DS_Store
-Thumbs.db

@@ -1,0 +1,7 @@
+services:
+  transapi:
+    build: .
+    ports:
+      - "12345:8000"
+    volumes:
+      - ./:/app
